@@ -2,7 +2,7 @@
 
 ## 🧑‍💻 About Me
 
-- 🎓 B.Tech 3rd year student at MITS (Mathematics and Computing).
+- 🎓 B.Tech finale year student at MITS (Mathematics and Computing).
 - 🤖 Passionate about **automation**, **AI-based tools**, and **problem-solving**.
 - 🚀 Built **QuizWhiz** (intelligent quiz solver) and **AutoResultGen** (automated result retriever).
 - 🔧 I enjoy working with APIs, Selenium, and building user-friendly tools.
@@ -26,7 +26,6 @@
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=shivamtomar-mac&layout=compact&langs_count=2&hide=javascript,html,css&theme=tokyonight" />
   <br>
-  <img src="https://github-readme-stats.vercel.app/api?username=shivamtomar-mac&show_icons=true&theme=tokyonight&hide_title=true" />
 </p>
 
 ## 🌐 Connect with Me
