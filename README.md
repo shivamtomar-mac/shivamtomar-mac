@@ -1,4 +1,4 @@
-<h1 align="center">Hi there, I'm Shivam Tomar 👋</h1>
+<h1 align="center">Welcome! I'm Shivam Tomar — passionate about automation, Python, and building real-world solutions 🛠️</h1>
 
 ## 🧑‍💻 About Me
 
@@ -24,9 +24,9 @@
 ## 📊 GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=shivamtomar&layout=compact&theme=tokyonight" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=shivamtomar-mac&layout=compact&langs_count=2&hide=javascript,html,css&theme=tokyonight" />
   <br>
-  <img src="https://github-readme-stats.vercel.app/api?username=shivamtomar&show_icons=true&theme=tokyonight" />
+  <img src="https://github-readme-stats.vercel.app/api?username=shivamtomar-mac&show_icons=true&theme=tokyonight&hide_title=true" />
 </p>
 
 ## 🌐 Connect with Me
